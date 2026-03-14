@@ -1,0 +1,12 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#08131C"/>
+  <rect x="84" y="84" width="1112" height="552" rx="26" fill="#122A39"/>
+  <rect x="140" y="170" width="1000" height="74" rx="12" fill="#1D4055"/>
+  <rect x="140" y="286" width="478" height="264" rx="16" fill="#173546"/>
+  <rect x="662" y="286" width="478" height="264" rx="16" fill="#173546"/>
+  <circle cx="240" cy="206" r="16" fill="#18D2A6"/>
+  <circle cx="284" cy="206" r="16" fill="#FF8C42"/>
+  <text x="336" y="214" fill="#EAF4FF" font-size="34" font-family="Arial, sans-serif">Multi-Service Booking System</text>
+  <text x="170" y="340" fill="#A9BFD0" font-size="24" font-family="Arial, sans-serif">Train | Bus | Hotel | Taxi</text>
+  <text x="170" y="384" fill="#A9BFD0" font-size="24" font-family="Arial, sans-serif">Bike Rental | Tours</text>
+</svg>

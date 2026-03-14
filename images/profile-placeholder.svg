@@ -1,0 +1,26 @@
+<svg width="800" height="900" viewBox="0 0 800 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="100" y1="70" x2="690" y2="860" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111E38"/>
+      <stop offset="1" stop-color="#0B152A"/>
+    </linearGradient>
+    <linearGradient id="ringGradient" x1="230" y1="190" x2="570" y2="530" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67D6FF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="900" rx="38" fill="url(#bgGradient)"/>
+
+  <circle cx="140" cy="150" r="130" fill="#38BDF8" fill-opacity="0.11"/>
+  <circle cx="680" cy="760" r="180" fill="#38BDF8" fill-opacity="0.09"/>
+
+  <rect x="88" y="88" width="624" height="724" rx="30" fill="#172847" fill-opacity="0.52" stroke="#475569" stroke-opacity="0.5"/>
+
+  <circle cx="400" cy="350" r="170" fill="#0F1B33" stroke="url(#ringGradient)" stroke-width="12"/>
+  <circle cx="400" cy="320" r="78" fill="#2A436B"/>
+  <path d="M262 556C262 480.348 324.348 418 400 418C475.652 418 538 480.348 538 556V594H262V556Z" fill="#2A436B"/>
+
+  <rect x="214" y="646" width="372" height="104" rx="18" fill="#0F1B33" stroke="#38BDF8" stroke-opacity="0.38"/>
+  <text x="400" y="708" fill="#D9EAFE" font-size="50" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700">RAJ</text>
+</svg>

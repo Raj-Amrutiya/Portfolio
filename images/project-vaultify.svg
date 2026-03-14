@@ -1,0 +1,25 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#071017"/>
+  <rect x="72" y="64" width="1136" height="592" rx="28" fill="#102432"/>
+
+  <rect x="136" y="132" width="430" height="456" rx="20" fill="#0B1D28" stroke="#18D2A6" stroke-opacity="0.35"/>
+  <rect x="174" y="176" width="354" height="46" rx="10" fill="#153746"/>
+  <rect x="174" y="244" width="290" height="22" rx="8" fill="#2B5D72"/>
+  <rect x="174" y="282" width="250" height="22" rx="8" fill="#2B5D72"/>
+  <rect x="174" y="320" width="310" height="22" rx="8" fill="#2B5D72"/>
+
+  <g>
+    <rect x="706" y="176" width="366" height="344" rx="24" fill="#0B1D28" stroke="#FF8C42" stroke-opacity="0.4"/>
+    <circle cx="889" cy="292" r="88" fill="#173746"/>
+    <rect x="865" y="280" width="48" height="84" rx="22" fill="#18D2A6"/>
+    <rect x="840" y="246" width="98" height="62" rx="28" fill="#18D2A6"/>
+    <circle cx="889" cy="292" r="18" fill="#0B1D28"/>
+    <rect x="778" y="420" width="222" height="40" rx="10" fill="#1E4558"/>
+  </g>
+
+  <rect x="640" y="560" width="472" height="44" rx="10" fill="#122E3D"/>
+
+  <text x="136" y="110" fill="#EAF4FF" font-size="52" font-family="Arial, sans-serif">Vaultify</text>
+  <text x="136" y="152" fill="#A9BFD0" font-size="26" font-family="Arial, sans-serif">Secure Credential Vault System</text>
+  <text x="652" y="588" fill="#18D2A6" font-size="23" font-family="Arial, sans-serif">AES-256-GCM | RSA-2048 | SHA-256 Hash Chain</text>
+</svg>
