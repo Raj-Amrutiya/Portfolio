@@ -2,9 +2,9 @@
 
 **Web Developer | Computer Science Student**
 
-- **Email:** rajamrutiya@example.com
-- **GitHub:** https://github.com/your-username
-- **LinkedIn:** https://linkedin.com/in/your-profile
+- **Email:** rajamrutiya2006@gmail.com
+- **GitHub:** https://github.com/Raj-Amrutiya
+- **LinkedIn:** https://linkedin.com/in/raj-amrutiya-3a5766248
 
 ## Summary
 
@@ -12,7 +12,7 @@ I build responsive and dynamic web applications using HTML, CSS, JavaScript, PHP
 
 ## Education
 
-- **B.Tech Computer Science**, Ganpat University (Expected 2026)
+- **B.Tech Computer Science**, Ganpat University (Expected 2028)
 - **Diploma in Computer Science**, Marwadi University (2022 - 2025)
 
 ## Skills
